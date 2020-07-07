@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1590195125 source:d:\daro\utn\programacion\codeblocks\parcial_1\salas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+	"salas.h"
+	"informes.h"
+
+1594082665 source:d:\daro\utn\programacion\codeblocks\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"utn.h"
+	"trabajos.h"
+	"informes.h"
+
+1594082820 source:d:\daro\utn\programacion\codeblocks\parcial_1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"trabajos.h"
+	"utn.h"
+	"informes.h"
+
+1594079780 d:\daro\utn\programacion\codeblocks\parcial_1\mascotas.h
+
+1590189838 d:\daro\utn\programacion\codeblocks\parcial_1\salas.h
+
+1594075652 d:\daro\utn\programacion\codeblocks\parcial_1\trabajos.h
+
+1594082602 source:d:\daro\utn\programacion\codeblocks\parcial_1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+	"utn.h"
+	"informes.h"
+
+1594083104 source:d:\daro\utn\programacion\codeblocks\parcial_1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+	"utn.h"
+	"informes.h"
+
+1594083355 d:\daro\utn\programacion\codeblocks\parcial_1\informes.h
+
+1593447890 d:\daro\utn\programacion\codeblocks\parcial_1\utn.h
+
+1593993726 source:d:\daro\utn\programacion\codeblocks\parcial_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+	"utn.h"
+	"informes.h"
+
